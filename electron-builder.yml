@@ -1,0 +1,4 @@
+appId: com.example.mKiosk
+publish:
+  provider: github
+  token: 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
